@@ -12,7 +12,7 @@ No ínicio da solução mapeei as possibilidades de impletação. Pensei em cria
 
 Tendo definido que o armazenamento dos dados seriam por json, passei a criação desse json populando-o. 
 <div style="display: inline_block"><br>
-<img align="center" alt="Json Files" width="600px" src="https://user-images.githubusercontent.com/105977369/187474145-4945bd35-75f1-4069-b64f-d1a5f60e7a79.png">
+<img align="center" alt="Json Files" width="600px" src="https://user-images.githubusercontent.com/105977369/187979241-06885388-f260-473a-9360-eb1bfa176c1e.png">
 </div>
 Seguindo em testar se este arquivo de dados em json estava ou não funcionando, utilizei o readFile, para acessar os dados desse json por meio do console. 
 
@@ -47,12 +47,17 @@ Realizei o teste para verificar se o retorno da API era como esperado. Para real
 <img align="center" alt="Consumindo a API do Deploy" width="600px" src="https://user-images.githubusercontent.com/105977369/187476604-a26999c0-869a-4736-9a94-a7b6b46b5e4b.png">
 </div>
 
+Precisei retonar no projeto para adicionar o CORS, possibilitando que essa API pudesse ser consumida no Front.
+<div style="display: inline_block"><br>
+<img align="center" alt="Adicionando o CORS" width="600px" src="https://user-images.githubusercontent.com/105977369/187979800-9ffa9ec7-abbb-47ee-96de-383dac3fa6b5.png">
+</div>
+
 Comentários sobre como faria se tivesse mais tempo para executar o projeto: 
 
 <ul>
 <li>Refatoração</li>
 <li>Criação de Rotas</li>
 <li>CRUD</li>
-<li>Organização em pastas individuais, deixando o código mais limpo.</li>
+<li>Utilizar a arquitetura MVC, deixando o código mais organizado.</li>
 </ul>
  
