@@ -11,6 +11,10 @@ app.listen(PORT,() => {
     console.log(`Servidor rodando em http://localhost:${PORT}`);
 });
 
+app.get('/',(request, response) => {
+    return response.send('<h1>Api consulta processual</h1>');
+});
+
 app.get('/processos',(request, response) => {
     return response.send(processos);
 });
