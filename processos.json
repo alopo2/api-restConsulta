@@ -1,75 +1,77 @@
-[
-    {
-        "id": 1,
-        "cnj": "5001682-88.2020.8.13.0671",
-        "autor": "Rafael da Silva",
-        "reu": "Bruce Wayne",
-        "tribunal": "TJBA",
-        "data": "2022-08-18",
-        "descricao": "Audiência preliminar"
-
-    },
-    {
-        "id": 2,
-        "cnj": "5001682-88.2020.8.13.0672",
-        "autor": "João das Botas",
-        "reu": "Tony Stark",
-        "tribunal": "TJSP",
-        "data": "2022-08-19",
-        "descricao": "Audiência preliminar"
-    },
-    {
-        "id": 3,
-        "cnj": "5001682-88.2020.8.13.0673",
-        "autor": "Jaqueline Pinheiro",
-        "reu": "Clark Kent",
-        "tribunal": "TJBA",
-        "data": "2022-08-20",
-        "descricao": "Audiência preliminar"
-    },
-    {
-        "id": 4,
-        "cnj": "5001682-88.2020.8.13.0674",
-        "autor": "Joaquiam José",
-        "reu": "Diana Prince",
-        "tribunal": "TJSP",
-        "data": "2022-08-21",
-        "descricao": "Audiência preliminar"
-    },
-    {
-        "id": 5,
-        "cnj": "5001682-88.2020.8.13.0675",
-        "autor": "Maria de Fátima",
-        "reu": "Barry Allen",
-        "tribunal": "TJBA",
-        "data": "2022-08-22",
-        "descricao": "Audiência preliminar"
-    },
-    {
-        "id": 6,
-        "cnj": "5001682-88.2020.8.13.0676",
-        "autor": "Carolina Dias",
-        "reu": "Oliver Queen",
-        "tribunal": "TJSP",
-        "data": "2022-08-23",
-        "descricao": "Audiência preliminar"
-    },
-    {
-        "id": 7,
-        "cnj": "5001682-88.2020.8.13.0677",
-        "autor": "Tiago Júnior",
-        "reu": "Hal Jordan",
-        "tribunal": "TJBA",
-        "data": "2022-08-24",
-        "descricao": "Audiência preliminar"
-    },
-    {
-        "id": 8,
-        "cnj": "5001682-88.2020.8.13.0678",
-        "autor": "Joana Félix",
-        "reu": "Arthur Curry",
-        "tribunal": "TJSP",
-        "data": "2022-08-25",
-        "descricao": "Audiência preliminar"
-    }
-]
+{
+    "results":[
+        {
+            "id": 1,
+            "cnj": "5001682-88.2020.8.13.0671",
+            "autor": "Rafael da Silva",
+            "reu": "Bruce Wayne",
+            "tribunal": "TJBA",
+            "data": "2022-08-18",
+            "descricao": "Audiência preliminar"
+    
+        },
+        {
+            "id": 2,
+            "cnj": "5001682-88.2020.8.13.0672",
+            "autor": "João das Botas",
+            "reu": "Tony Stark",
+            "tribunal": "TJSP",
+            "data": "2022-08-19",
+            "descricao": "Audiência preliminar"
+        },
+        {
+            "id": 3,
+            "cnj": "5001682-88.2020.8.13.0673",
+            "autor": "Jaqueline Pinheiro",
+            "reu": "Clark Kent",
+            "tribunal": "TJBA",
+            "data": "2022-08-20",
+            "descricao": "Audiência preliminar"
+        },
+        {
+            "id": 4,
+            "cnj": "5001682-88.2020.8.13.0674",
+            "autor": "Joaquiam José",
+            "reu": "Diana Prince",
+            "tribunal": "TJSP",
+            "data": "2022-08-21",
+            "descricao": "Audiência preliminar"
+        },
+        {
+            "id": 5,
+            "cnj": "5001682-88.2020.8.13.0675",
+            "autor": "Maria de Fátima",
+            "reu": "Barry Allen",
+            "tribunal": "TJBA",
+            "data": "2022-08-22",
+            "descricao": "Audiência preliminar"
+        },
+        {
+            "id": 6,
+            "cnj": "5001682-88.2020.8.13.0676",
+            "autor": "Carolina Dias",
+            "reu": "Oliver Queen",
+            "tribunal": "TJSP",
+            "data": "2022-08-23",
+            "descricao": "Audiência preliminar"
+        },
+        {
+            "id": 7,
+            "cnj": "5001682-88.2020.8.13.0677",
+            "autor": "Tiago Júnior",
+            "reu": "Hal Jordan",
+            "tribunal": "TJBA",
+            "data": "2022-08-24",
+            "descricao": "Audiência preliminar"
+        },
+        {
+            "id": 8,
+            "cnj": "5001682-88.2020.8.13.0678",
+            "autor": "Joana Félix",
+            "reu": "Arthur Curry",
+            "tribunal": "TJSP",
+            "data": "2022-08-25",
+            "descricao": "Audiência preliminar"
+        }
+    ]
+}
