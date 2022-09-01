@@ -1,4 +1,6 @@
-
+Link da API pública no Heroku: <br>
+https://api-consulta-processual.herokuapp.com/processos
+<br>
 🛠 Tecnologias Utilizadas: <br>
 <ul>
 <li>Node JS</li>
@@ -6,7 +8,7 @@
 <li>Node Fetch</li>
 <li>Heroku</li>
 </ul>
-No ínicio da solução mapeei as possibilidades de impletação. Pensei em criar apenas um .json e integrá-lo com o front-end feito em React. Porém, resolvi que seria muito mais interessante e clean, se criasse uma API REST e fizesse o deploy dela, para consumir utilizando o link criado no heroku.
+No ínicio da solução mapeei as possibilidades de impletação. Pensei em criar apenas um .json e integrá-lo com o front-end feito em React. Porém, resolvi que seria muito mais interessante, se criasse uma API REST e fizesse o deploy dela, para consumir utilizando o link criado no heroku.
 
 Tendo definido que o armazenamento dos dados seriam por json, passei a criação desse json populando-o. 
 <div style="display: inline_block"><br>
