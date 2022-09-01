@@ -1,5 +1,3 @@
-# api-restConsulta
-Api REST, criada para ser utilizada posteriormente na Landing Page de consulta processual. <br>
 
 🛠 Tecnologias Utilizadas: <br>
 <ul>
@@ -60,4 +58,3 @@ Comentários sobre como faria se tivesse mais tempo para executar o projeto:
 <li>CRUD</li>
 <li>Utilizar a arquitetura MVC, deixando o código mais organizado.</li>
 </ul>
- 
